@@ -22,12 +22,12 @@ export default function Projects() {
       icon: '🌱'
     },
     {
-      title: 'Automated Mattress Cleaning for Elderly Care',
-      subtitle: 'Healthcare Robotics & Sanitation',
-      category: 'IoT & Robotics',
-      description: 'Created a robotic sanitation module aimed at public health spaces and care facilities. Uses custom sensors to detect bed moisture or contamination, deploying automated UV-C / sanitizing cycles for elderly bed comfort.',
-      tech: ['Arduino', 'Robotics', 'Sensors', 'Embedded Hardware', 'Motors'],
-      icon: '🛏️'
+      title: 'Student Dashboard Pro – AI-Powered Academic Management System',
+      subtitle: 'Academic Analytics & Intelligent Management',
+      category: 'AI & ML',
+      description: 'Built an AI-powered academic management platform featuring real-time performance tracking, intelligent course schedule optimization, interactive analytics dashboards, and automated study planning tools for students.',
+      tech: ['React', 'Node.js', 'Python', 'Tailwind CSS', 'AI / LLM API', 'PostgreSQL'],
+      icon: '🎓'
     }
   ];
 
